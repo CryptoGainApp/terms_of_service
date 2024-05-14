@@ -12,12 +12,12 @@ Under these Terms, CryptoGain and/or its licensors own all rights to the intelle
 
 You are expressly restricted from all of the following:
 
-    Selling, sublicensing, and/or otherwise commercializing any app material.
-    Using this app in any way that is, or may be, damaging to this app or to the user experience of others.
-    Using this app in any way that impacts user access to this app.
-    Using this app contrary to applicable laws and regulations, or in a way that causes, or may cause, harm to the app, or to any person or business entity.
-    Engaging in any data mining, data harvesting, data extracting, or any other similar activity in relation to this app, or while using this app.
-    Reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for any underlying software or other intellectual property used to provide the app, or to obtain any information from the app using any method not expressly permitted by CryptoGain.
+- Selling, sublicensing, and/or otherwise commercializing any app material.
+- Using this app in any way that is, or may be, damaging to this app or to the user experience of others.
+- Using this app in any way that impacts user access to this app.
+- Using this app contrary to applicable laws and regulations, or in a way that causes, or may cause, harm to the app, or to any person or business entity.
+- Engaging in any data mining, data harvesting, data extracting, or any other similar activity in relation to this app, or while using this app.
+- Reverse engineering, decompiling, disassembling, deciphering, or otherwise attempting to derive the source code for any underlying software or other intellectual property used to provide the app, or to obtain any information from the app using any method not expressly permitted by CryptoGain.
     
 ### User Content
 
