@@ -62,3 +62,7 @@ These terms will be governed by and construed in accordance with the laws of the
 ### Disclaimer
 
 CryptoGain is a tool for monitoring cryptocurrency markets and is not a financial advisor. The information provided through the app is for informational purposes only and should not be construed as financial or investment advice. Users should conduct their own research and consider seeking advice from a qualified financial advisor before making any investment decisions. CryptoGain is not responsible for any financial losses or damages incurred through the use of the app.
+
+---
+
+Thank you for using CryptoGain. If you have any questions or concerns regarding these Terms of Service, please do not hesitate to reach out to our support team. Your trust and satisfaction are our top priorities.
