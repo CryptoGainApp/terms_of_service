@@ -6,7 +6,7 @@ These terms and conditions outline the rules and regulations for the use of the 
 
 ### Intellectual Property Rights
 
-Other than the content you own, which you may have opted to include on this app, under these Terms, CryptoGain and/or its licensors own all rights to the intellectual property and material contained in this app, and all such rights are reserved. You are granted a limited license only, subject to the restrictions provided in these terms, for purposes of viewing the material and using the services facilitated by this app
+Under these Terms, CryptoGain and/or its licensors own all rights to the intellectual property and material contained in this app, and all such rights are reserved. You are granted a limited license only, subject to the restrictions provided in these terms, for purposes of viewing the material and using the services facilitated by this app.
 
 ### Restrictions
 
@@ -46,6 +46,10 @@ CryptoGain is permitted to revise these terms at any time as it sees fit, and by
 ### Assignment
 
 CryptoGain is allowed to assign, transfer, and subcontract its rights and/or obligations under these terms without any notification or consent required. However, you shall not be permitted to assign, transfer, or subcontract any of your rights and/or obligations under these terms.
+
+### Premium Version
+
+CryptoGain offers a premium version of the app that provides additional features and services. By subscribing to the premium version, you agree to pay the subscription fees specified at the time of purchase. All fees are non-refundable. CryptoGain reserves the right to modify the pricing and benefits of the premium version at any time, with or without notice. Your continued use of the premium version after any such changes will constitute your acceptance of the new terms.
 
 ### Entire Agreement
 
